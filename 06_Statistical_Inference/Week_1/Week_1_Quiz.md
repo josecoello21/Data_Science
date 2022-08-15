@@ -64,8 +64,6 @@ What is the mean?
 
 (Hint, watch Lecture 4 on expectations of PMFs.)
 
-$E\left ( x \right ) = \sum_{i = 1}^{n} x_{i}.p_{i}$
-
 ```{r}
 sum(x * p)
 ```
