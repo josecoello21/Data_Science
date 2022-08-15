@@ -79,7 +79,7 @@ ts <- (x1 - x2)/(s * sqrt(1/n1 + 1/n2))
 
 **Answer:** Less than 0.01
 
-6.  Brain volumes for 9 men yielded a 90% confidence interval of 1,077 cc to 1,123 cc. Would you reject in a two sided 5% hypothesis test of $H_{0}:\, \mu \, = \, 1,078$
+6.  Brain volumes for 9 men yielded a 90% confidence interval of 1,077 cc to 1,123 cc. Would you reject in a two sided 5% hypothesis test of $H_{0}: \mu  =  1,078$
 
 **Answer:** No you wouldn't reject.
 
